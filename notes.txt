@@ -1,0 +1,20 @@
+create a new repository on the command line
+echo "# selenium-first" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/naveengotur/selenium-first.git
+git push -u origin main
+
+
+ push an existing repository from the command line
+git remote add origin https://github.com/naveengotur/selenium-first.git
+git branch -M main
+git push -u origin main
+
+My local setup
+go to local eclipse in folder open cmd then the follow below steps
+1.git init
+ 2.git config --global user.email "naveen94.gotur@gmail.com"
+ 3.git config --global user.name "Naveen"
