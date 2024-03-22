@@ -18,3 +18,12 @@ go to local eclipse in folder open cmd then the follow below steps
 1.git init
  2.git config --global user.email "naveen94.gotur@gmail.com"
  3.git config --global user.name "Naveen"
+ cls
+ git commit -m "first commit"
+ 
+
+ 
+ 
+ 
+ 
+ 
